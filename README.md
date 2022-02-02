@@ -1,5 +1,5 @@
 # CSC2541-Project
-UofT CSC 2541 Research: Time Series Analysis of Biomarkers For Multiple Myeloma  
+UofT CSC 2541 Research Project: Time Series Analysis of Biomarkers For Multiple Myeloma  
 
 - Proposed a new model BARMAX based on ARMA, which take external variables (patients’ baseline variables,
 treatments) into consideration while predicting biomarkers for multiple myeloma patients
