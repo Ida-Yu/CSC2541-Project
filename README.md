@@ -1,5 +1,9 @@
 # CSC2541-Project
-CSC 2541 Research: Machine Learning with Multiple Myeloma Research
+UofT CSC 2541 Research: Time Series Analysis of Biomarkers For Multiple Myeloma  
+
+- Proposed a new model BARMAX based on ARMA, which take external variables (patients’ baseline variables,
+treatments) into consideration while predicting biomarkers for multiple myeloma patients
+- Analyzed its prediction performance on preprocessed MMRF dataset and concluded that it outperforms traditional univariate model ARMA and multivariate model HMM
 
 For multiple myeloma patients, a variety of lab test results are tracked and checked
 by doctors throughout the treatment process. These lab values serve as biomarkers
